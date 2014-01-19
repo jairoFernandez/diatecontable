@@ -1,0 +1,3 @@
+pedidos_homepage:
+    pattern:  /
+    defaults: { _controller: pedidosBundle:Default:index }

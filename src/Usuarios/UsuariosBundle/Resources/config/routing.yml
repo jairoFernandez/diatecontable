@@ -1,0 +1,3 @@
+usuarios_homepage:
+    pattern:  /
+    defaults: { _controller: usuariosBundle:Default:index }
